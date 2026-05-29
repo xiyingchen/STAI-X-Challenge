@@ -2,7 +2,6 @@
 
 Personal data workspace for the [STAI-X Challenge 2026](https://statsupai.org/STAIX2026/challenge.html): forecasting **state-level rates of suspected nonfatal drug overdose emergency department (ED) visits** using public health, environmental, digital-behavior, and syndromic surveillance signals.
 
-**Author:** [xiyingchen](https://github.com/xiyingchen)
 
 ## Challenge overview
 
